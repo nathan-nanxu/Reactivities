@@ -12,6 +12,9 @@
     "@types/react-dom": "^16.9.5",
     "@types/uuid": "^7.0.0",
     "axios": "^0.19.2",
+    "babel-polyfill": "^6.26.0",
+    "mobx": "^4.15.4",
+    "mobx-react-lite": "^1.5.2",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-scripts": "3.4.0",
@@ -35,6 +38,7 @@
       "not op_mini all"
     ],
     "development": [
+      "ie 11",
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"

@@ -1,5 +1,6 @@
 import "react-app-polyfill/ie11";
 import "react-app-polyfill/stable";
+import "semantic-ui-css/semantic.min.css";
 import React from "react";
 import ReactDOM from "react-dom";
 import { Router } from "react-router-dom";
